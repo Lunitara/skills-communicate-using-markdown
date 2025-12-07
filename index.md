@@ -5,3 +5,8 @@
 ``` javascript
 var myVar = "There is always only one truth!";
 ```
+
+- [X] Watch the 5th movie
+- [ ] Rewatch the 5th movie
+- [ ] Obsess over the 15th movie's plot
+
